@@ -4,4 +4,4 @@ First ever coding project that I've done. This was for my AP Computer Science Pr
 
 Scored a 5 on the AP Exam overall.
 
-![](creatept.gif)
+<img src="create.gif" width="500" height="500">

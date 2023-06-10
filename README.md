@@ -4,4 +4,4 @@ First ever coding project that I've done. This was for my AP Computer Science Pr
 
 Scored a 5 on the AP Exam overall.
 
-<img src="create-demo.gif" width="500" height="500">
+<img src="create-demo.gif" width="1000" height="500">
